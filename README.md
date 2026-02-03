@@ -1,34 +1,20 @@
 # 👋 Carlos Alberto
 
-**Software Engineer | Full Stack Developer | Visão Computacional**
+**Software Engineer | Full Stack Developer**
 
-Desenvolvedor **Full Stack** com experiência em sistemas de produção, atuando com **Java e Angular** no desenvolvimento de aplicações escaláveis baseadas em **microsserviços**. Também possuo experiência prática em **Visão Computacional**, aplicando IA para análise de imagens em contextos reais.
+Desenvolvedor **Full Stack** com foco em **backend**, atuando com **Java e Angular** em sistemas de produção baseados em **microsserviços e mensageria**. Experiência complementar em **Visão Computacional**, aplicando IA para análise de imagens.
 
 Goiânia – GO | Ciência da Computação (UFG)
----
-## Resumo Rápido
-* **Full Stack Developer** com foco em backend
-* Arquitetura de **Microsserviços** e **Mensageria**
-* Bancos de dados relacionais e NoSQL
-* Experiência complementar em **Visão Computacional e IA**
-* 🏢 Atuação em projetos usados por centenas de usuários
+
 ---
 
-## 🛠️ Tecnologias que domino
+### Stack principal
+- **Backend:** Java, Microsserviços, Mensageria  
+- **Frontend:** Angular  
+- **Dados:** PostgreSQL, MongoDB  
+- **IA (experiência prática):** Python, OpenCV, YOLO  
 
-**Backend & Arquitetura**
-* Java
-* Microsserviços
-* Mensageria
-**Frontend**
-* Angular
-**Bancos de Dados**
-* PostgreSQL
-* MongoDB
-**IA / Visão Computacional (experiência prática)**
-* Python
-* OpenCV
-* YOLO
+---
 
 **Contato**
 
