@@ -1,4 +1,4 @@
-# Carlos Alberto
+# 👋 Carlos Alberto
 
 **Software Engineer | Full Stack Developer | Visão Computacional**
 
@@ -18,7 +18,7 @@ Goiânia – GO | Ciência da Computação (UFG)
 
 ---
 
-## Tecnologias que domino
+## 🛠️ Tecnologias que domino
 
 **Backend & Arquitetura**
 
