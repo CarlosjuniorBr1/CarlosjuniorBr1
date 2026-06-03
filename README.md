@@ -9,9 +9,10 @@ Goiânia – GO | Ciência da Computação (UFG)
 ---
 
 ### Stack principal
-- **Backend:** Java, Microsserviços, Mensageria  
-- **Frontend:** Angular  
-- **Dados:** PostgreSQL, MongoDB  
+- **Backend:** Node, NestJs, Java, Microsserviços, Mensageria  
+- **Frontend:** Angular e Ionic
+- **Dados:** PostgreSQL, MongoDB
+- **Devops: Docker, Kubernets, Jenkins
 
 ---
 
