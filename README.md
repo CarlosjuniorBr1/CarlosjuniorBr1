@@ -12,7 +12,7 @@ Goiânia – GO | Ciência da Computação (UFG)
 - **Backend:** Node, NestJs, Java, Microsserviços, Mensageria  
 - **Frontend:** Angular e Ionic
 - **Dados:** PostgreSQL, MongoDB
-- **Devops: Docker, Kubernets, Jenkins
+- **Devops:** Docker, Kubernets, Jenkins
 
 ---
 
